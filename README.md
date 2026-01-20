@@ -1,5 +1,11 @@
 # 📊 Análise e Previsão de Notas de Estudantes com Machine Learning
 
+
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-orange.svg)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen.svg)
+![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+
 ## 📌 Descrição do Projeto
 Este projeto realiza uma **análise exploratória e preditiva do desempenho de estudantes**, utilizando variáveis comportamentais e contextuais, como hábitos de estudo, rotina de sono e acesso a recursos educacionais.
 
